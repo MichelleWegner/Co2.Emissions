@@ -1,5 +1,5 @@
 country,year,temperature_change
-"Afghanistan, Islamic Rep. of",1999,1.301
+Afghanistan,1999,1.301
 Albania,1999,0.722
 Algeria,1999,1.456
 American Samoa,1999,0.243
@@ -225,7 +225,7 @@ Western Sahara,1999,0.935
 World,1999,0.787
 Zambia,1999,0.418
 Zimbabwe,1999,0.09
-"Afghanistan, Islamic Rep. of",2000,1.109
+Afghanistan,2000,1.109
 Albania,2000,1.112
 Algeria,2000,0.798
 American Samoa,2000,0.67
@@ -451,7 +451,7 @@ Western Sahara,2000,0.865
 World,2000,0.732
 Zambia,2000,0.311
 Zimbabwe,2000,-0.34
-"Afghanistan, Islamic Rep. of",2001,1.366
+Afghanistan,2001,1.366
 Albania,2001,1.555
 Algeria,2001,1.827
 American Samoa,2001,0.948
@@ -677,7 +677,7 @@ Western Sahara,2001,1.255
 World,2001,0.833
 Zambia,2001,0.501
 Zimbabwe,2001,0.03
-"Afghanistan, Islamic Rep. of",2002,1.384
+Afghanistan,2002,1.384
 Albania,2002,0.492
 Algeria,2002,1.222
 American Samoa,2002,1.196
@@ -903,7 +903,7 @@ Western Sahara,2002,1.179
 World,2002,1.018
 Zambia,2002,0.956
 Zimbabwe,2002,0.438
-"Afghanistan, Islamic Rep. of",2003,0.615
+Afghanistan,2003,0.615
 Albania,2003,1.023
 Algeria,2003,1.567
 American Samoa,2003,0.719
@@ -1129,7 +1129,7 @@ Western Sahara,2003,1.349
 World,2003,0.89
 Zambia,2003,1.159
 Zimbabwe,2003,0.377
-"Afghanistan, Islamic Rep. of",2004,1.427
+Afghanistan,2004,1.427
 Albania,2004,0.462
 Algeria,2004,0.964
 American Samoa,2004,0.215
@@ -1355,7 +1355,7 @@ Western Sahara,2004,1.47
 World,2004,0.908
 Zambia,2004,0.801
 Zimbabwe,2004,0.042
-"Afghanistan, Islamic Rep. of",2005,0.491
+Afghanistan,2005,0.491
 Albania,2005,0.255
 Algeria,2005,1.238
 American Samoa,2005,0.844
@@ -1581,7 +1581,7 @@ Western Sahara,2005,1.092
 World,2005,1.09
 Zambia,2005,1.339
 Zimbabwe,2005,1.065
-"Afghanistan, Islamic Rep. of",2006,1.78
+Afghanistan,2006,1.78
 Albania,2006,0.426
 Algeria,2006,1.373
 American Samoa,2006,0.446
@@ -1807,7 +1807,7 @@ Western Sahara,2006,1.317
 World,2006,0.982
 Zambia,2006,0.61
 Zimbabwe,2006,-0.346
-"Afghanistan, Islamic Rep. of",2007,0.736
+Afghanistan,2007,0.736
 Albania,2007,1.45
 Algeria,2007,1.198
 American Samoa,2007,0.894
@@ -2033,7 +2033,7 @@ Western Sahara,2007,0.851
 World,2007,1.181
 Zambia,2007,1.075
 Zimbabwe,2007,0.038
-"Afghanistan, Islamic Rep. of",2008,0.804
+Afghanistan,2008,0.804
 Albania,2008,1.103
 Algeria,2008,1.164
 American Samoa,2008,0.46
@@ -2259,7 +2259,7 @@ Western Sahara,2008,1.355
 World,2008,0.92
 Zambia,2008,0.446
 Zimbabwe,2008,0.016
-"Afghanistan, Islamic Rep. of",2009,0.929
+Afghanistan,2009,0.929
 Albania,2009,1.009
 Algeria,2009,0.927
 American Samoa,2009,
@@ -2485,7 +2485,7 @@ Western Sahara,2009,0.895
 World,2009,0.944
 Zambia,2009,0.577
 Zimbabwe,2009,-0.336
-"Afghanistan, Islamic Rep. of",2010,1.646
+Afghanistan,2010,1.646
 Albania,2010,1.274
 Algeria,2010,2.249
 American Samoa,2010,1.047
@@ -2711,7 +2711,7 @@ Western Sahara,2010,1.819
 World,2010,1.205
 Zambia,2010,1.481
 Zimbabwe,2010,0.918
-"Afghanistan, Islamic Rep. of",2011,1.446
+Afghanistan,2011,1.446
 Albania,2011,1.108
 Algeria,2011,1.39
 American Samoa,2011,0.642
@@ -2937,7 +2937,7 @@ Western Sahara,2011,1.432
 World,2011,0.907
 Zambia,2011,0.965
 Zimbabwe,2011,0.22
-"Afghanistan, Islamic Rep. of",2012,0.234
+Afghanistan,2012,0.234
 Albania,2012,1.568
 Algeria,2012,1.128
 American Samoa,2012,0.646
@@ -3163,7 +3163,7 @@ Western Sahara,2012,1.234
 World,2012,1.058
 Zambia,2012,0.926
 Zimbabwe,2012,0.329
-"Afghanistan, Islamic Rep. of",2013,1.308
+Afghanistan,2013,1.308
 Albania,2013,1.444
 Algeria,2013,1.173
 American Samoa,2013,0.883
@@ -3389,7 +3389,7 @@ Western Sahara,2013,1.282
 World,2013,1.007
 Zambia,2013,0.746
 Zimbabwe,2013,0.102
-"Afghanistan, Islamic Rep. of",2014,0.457
+Afghanistan,2014,0.457
 Albania,2014,1.322
 Algeria,2014,1.676
 American Samoa,2014,0.554
@@ -3615,7 +3615,7 @@ Western Sahara,2014,1.244
 World,2014,1.042
 Zambia,2014,0.638
 Zimbabwe,2014,-0.008
-"Afghanistan, Islamic Rep. of",2015,1.101
+Afghanistan,2015,1.101
 Albania,2015,1.665
 Algeria,2015,1.101
 American Samoa,2015,0.394
@@ -3841,7 +3841,7 @@ Western Sahara,2015,1.277
 World,2015,1.406
 Zambia,2015,1.486
 Zimbabwe,2015,0.808
-"Afghanistan, Islamic Rep. of",2016,1.607
+Afghanistan,2016,1.607
 Albania,2016,1.601
 Algeria,2016,1.736
 American Samoa,2016,0.924
@@ -4067,7 +4067,7 @@ Western Sahara,2016,1.636
 World,2016,1.658
 Zambia,2016,1.474
 Zimbabwe,2016,1.051
-"Afghanistan, Islamic Rep. of",2017,1.568
+Afghanistan,2017,1.568
 Albania,2017,1.269
 Algeria,2017,1.498
 American Samoa,2017,0.82
@@ -4293,7 +4293,7 @@ Western Sahara,2017,2.078
 World,2017,1.424
 Zambia,2017,0.721
 Zimbabwe,2017,0.116
-"Afghanistan, Islamic Rep. of",2018,1.58
+Afghanistan,2018,1.58
 Albania,2018,2.146
 Algeria,2018,1.211
 American Samoa,2018,0.574
@@ -4519,7 +4519,7 @@ Western Sahara,2018,0.851
 World,2018,1.284
 Zambia,2018,0.727
 Zimbabwe,2018,0.405
-"Afghanistan, Islamic Rep. of",2019,0.96
+Afghanistan,2019,0.96
 Albania,2019,1.823
 Algeria,2019,1.094
 American Samoa,2019,0.924

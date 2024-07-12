@@ -35,6 +35,11 @@ Our dataset includes global CO2 emission data, earth temperature, and population
 - **Comparative Analysis**: Compared CO2 emissions and temperature changes between the Global North and Global South.
 - **Correlation Analysis**: Examined relationships between CO2 emissions and temperature changes.
 
+
+
+
+
+
 ## Unique Data Cleaning Techniques
 ### Unique Techniques
 #### Geospatial Aggregation

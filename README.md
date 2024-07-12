@@ -8,7 +8,7 @@ The objective of this project was to analyze the relationship between CO2 emissi
 
 ### We utilized two datasets:
    1. CO2 Emissions and Population Data (df1): This dataset contains information about CO2 emissions and population for various countries over several years.
-   2. Temperature Data (df2): This dataset includes temperature changes for various countries over several years.
+   2. Temperature Data (df2): This dataset includes temperature changes for various countries over several years. Earth's average temperature, unlike daily local readings, reflects the planet's overall climate health. This single value, encompassing land and sea, acts as a vital sign for our planet. Even slight increases can significantly impact weather, precipitation, and ecosystems globally. While local temperatures show variations across the day and seasons, the Earth's average temperature tracks long-term trends, crucial for understanding climate change.
 #### To prepare the data for analysis, we:
    1. Removed non-country entries and standardized country names.
    2. Merged the datasets on country and year.

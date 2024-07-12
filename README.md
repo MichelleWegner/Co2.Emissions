@@ -17,8 +17,6 @@ The objective of this project was to analyze the relationship between CO2 emissi
    1. Hypothesis 1: Countries in the Global North produce more CO2 emissions.
       - Analysis: We compared the average CO2 emissions between countries classified as "Global North" and "Global South".
       - Result: The t-test showed a statistically significant difference in CO2 emissions, with Global North countries producing more CO2 emissions.
-
-   ![Pair Plot of Feature Engineering variable](https://drive.google.com/uc?export=view&id=1AYVkEcBwaNRV7SYe3b4NVvB4GZAxTamA)
    2. Hypothesis 2: Countries that produce the most CO2 emissions are the least impacted by temperature rise.
       - Analysis: We identified the top CO2 emitting countries and compared their temperature changes to other countries.
       - Result: The t-test did not support the hypothesis, showing no significant difference in temperature changes between top CO2 emitters and other countries.
@@ -58,3 +56,5 @@ For future analyses, it would be beneficial to:
    3. Use advanced predictive models (e.g., machine learning) to forecast future emissions and temperature changes with higher accuracy.
 These steps will provide deeper insights and support more effective strategies to combat climate change globally.
 
+## Presentation:
+https://docs.google.com/presentation/d/1hzDR6W8Slia1sfG81GmcLvukgwIZPtYVm-pxl0y2Fqg/edit#slide=id.g2158be21f01_5_33

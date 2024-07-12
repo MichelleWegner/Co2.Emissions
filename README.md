@@ -58,3 +58,6 @@ For future analyses, it would be beneficial to:
    3. Use advanced predictive models (e.g., machine learning) to forecast future emissions and temperature changes with higher accuracy.
 These steps will provide deeper insights and support more effective strategies to combat climate change globally.
 
+## Presentation : 
+https://docs.google.com/presentation/d/1hzDR6W8Slia1sfG81GmcLvukgwIZPtYVm-pxl0y2Fqg/edit#slide=id.g2eada64a820_0_16
+
